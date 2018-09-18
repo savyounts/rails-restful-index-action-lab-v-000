@@ -1,5 +1,5 @@
-class StudentController < ActiveRecord::Base
+class StudentController < ApplicationController
 
   def index
-  end 
+  end
 end
